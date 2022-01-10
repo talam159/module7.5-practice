@@ -1,0 +1,19 @@
+.swimming div{
+    border: 5px dashed rebeccapurple;
+    width: 200px;
+    
+}
+.swimming{
+    position: relative;
+}
+#ring{
+    position:relative;
+    left: 0px;
+    top: 0px;
+    /* margin-left: 50px; */
+}
+.dummy{
+    height: 150px;
+    width: 250px;
+    background-color:rgb(221, 83, 136);
+}
