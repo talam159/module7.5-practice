@@ -1,0 +1,16 @@
+td, th{
+    border: 1px solid lightgray;
+    
+}
+th{
+    background-color: lightcyan;
+}
+table{
+    border-collapse: collapse;
+}
+tr:nth-child(2n){
+    background-color: gray;
+}
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
